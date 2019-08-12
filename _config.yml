@@ -78,7 +78,7 @@ ba_track_id: e806116315e1f688929a5d4d96906080
 
 # Google Analytics
 ga_track_id: 'UA-130031099-1'            # Format: UA-xxxxxx-xx
-ga_domain: zjutiec.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: dongyanjie.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
